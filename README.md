@@ -1,2 +1,3 @@
 # Hello-World
-This is my first GitHub repository
+
+This is the clone of the master branch repository
